@@ -18,12 +18,12 @@ function App() {
           Learn React
         </a>
        <a
-          className="Linkedin"
+          className="App-link"
           href="https://linkedin.com/PavanMudigonda"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Linkedin
         </a>
       </header>
     </div>
